@@ -1,0 +1,11 @@
+{
+    "anchortests1": [
+        {
+            "own_id": 1,
+            "group": {
+                "logical_operator": 0,
+                "filters": []
+              }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+contracts:
+  anchortest:
+    abi: anchortest.abi
+    name: anchortest
+    wasm: anchortest.wasm
+options: null

@@ -1,0 +1,8 @@
+/build
+anchortest.wasm
+anchortest.abi
+.DS_Store
+.eosproj
+.vscode/
+.idea/
+node_modules
